@@ -11,7 +11,7 @@ Returns a summary table over a set of groups.
 ## Syntax  
   
 ```dax
-SUMMARIZECOLUMNS( <groupBy_columnName> [, < groupBy_columnName >]…, [<filterTable>]…[, <name>, <expression>]…)  
+SUMMARIZECOLUMNS( <groupBy_columnName> [, < groupBy_columnName >]…, [<filterTable>]…,[<name>, <expression>]…,)  
 ```
   
 ### Parameters  
